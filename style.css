@@ -1,0 +1,6 @@
+.myText {
+    font-family: "Stack Sans Notch", sans-serif;
+    color: rgb(97, 97, 226);          /* สีข้อความ */
+    font-size: 24px;      /* ขนาดตัวอักษร */
+    text-align: center;   /* จัดกึ่งกลาง */
+}
